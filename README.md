@@ -119,7 +119,6 @@ Statistical modeling pipeline over 25 seasons of NFL play-by-play data.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaksingh21&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksingh21&layout=compact&theme=radical&hide_border=true)
 
 *USACO Gold Division · Data Structures & Algorithms · Graph Traversal · Dynamic Programming*
