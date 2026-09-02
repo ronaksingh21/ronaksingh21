@@ -6,10 +6,8 @@
 
 I build things that touch the real world before they touch a resume — assistive hardware, systems from scratch, and the occasional too-ambitious weekend project.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ronak-singh-03ba422a9/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsingh81@uw.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
-
 </div>
 
 ---
@@ -126,8 +124,8 @@ Statistical modeling pipeline over 25 seasons of NFL play-by-play data.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaksingh21&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksingh21&layout=compact&theme=radical&hide_border=true)
 
 *USACO Gold Division · Data Structures & Algorithms · Graph Traversal · Dynamic Programming*
 
