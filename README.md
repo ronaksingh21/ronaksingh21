@@ -2,7 +2,7 @@
 
 # Hi, I'm Ronak Singh 👋
 
-### CS @ University of Washington, Paul G. Allen School — expected 2030 (sophomore standing via AP credit)
+### CS @ University of Washington, Paul G. Allen School: first year (sophomore standing)
 
 I build things that touch the real world before they touch a resume — assistive hardware, systems from scratch, and the occasional too-ambitious weekend project.
 
