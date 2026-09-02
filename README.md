@@ -4,7 +4,7 @@
 
 ### CS @ University of Washington, Paul G. Allen School: first year (sophomore standing)
 
-I build things that touch the real world before they touch a resume — assistive hardware, systems from scratch, and the occasional too-ambitious weekend project.
+I build things that help me understand how various systems work and how I can improve the world with technology!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-singh-03ba422a9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsingh81@uw.edu)
@@ -15,7 +15,7 @@ I build things that touch the real world before they touch a resume — assistiv
 
 ### 🔭 What I'm doing right now
 
-- Building a **vector database (HNSW, C++)** from scratch — Python bindings via `pybind11`, REST API in Flask, benchmarked against pgvector's production implementation
+- Building a **vector database (HNSW, C++)** from scratch. Python bindings via `pybind11`, REST API in Flask, benchmarked against pgvector's production implementation
 - Published research on **assistive brain-computer interfaces** (P300, synthetic-to-real EEG transfer)
 - 🏆 USACO Gold Division · 📄 Two USPTO provisional patents
 
