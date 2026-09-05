@@ -109,14 +109,6 @@ Statistical modeling pipeline over 25 seasons of NFL play-by-play data.
 
 ---
 
-## 🎖️ Leadership
-
-- **President & Technical Project Lead**, Technology Student Association — led a 300+ member chapter, directed prep for a 6th-place national finish
-- **National Competitor**, FBLA — 2nd nationally in Network Design, 2nd nationally in Management Information Systems
-- **Community Technology Volunteer**, Sikh Center of Seattle — taught programming to 31 students across three years (200+ hours)
-
----
-
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksingh21&layout=compact&theme=radical&hide_border=true)
