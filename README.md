@@ -15,7 +15,7 @@ I build things that help me understand how various systems work and how I can im
 
 ### 🔭 What I'm doing right now
 
-- Building a **vector database (HNSW, C++)** from scratch. Python bindings via `pybind11`, REST API in Flask, benchmarked against pgvector's production implementation
+- Wrapping up an open source contribution at HNSWLIB and building a **vector database (HNSW, C++)** from scratch. Python bindings via `pybind11`, REST API in Flask, benchmarked against pgvector's production implementation
 - Published research on **assistive brain-computer interfaces** (P300, synthetic-to-real EEG transfer)
 - 🏆 USACO Gold Division · 📄 Two USPTO provisional patents
 
