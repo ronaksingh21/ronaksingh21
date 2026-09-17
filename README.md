@@ -8,6 +8,9 @@ I build things that help me understand how various systems work and how I can im
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-singh-03ba422a9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsingh81@uw.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://singhronak.vercel.app/)
+
+
 
 </div>
 
