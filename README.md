@@ -2,7 +2,7 @@
 
 # Hi, I'm Ronak Singh 👋
 
-### CS @ University of Washington, Paul G. Allen School: first year (sophomore standing)
+### CS @ University of Washington, Paul G. Allen School
 
 I build things that help me understand how various systems work and how I can improve the world with technology!
 
